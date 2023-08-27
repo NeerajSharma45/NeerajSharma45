@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <!-- <img src="https://giphy.com/embed/KiMBUPZUhUg4HRV6PW" width="100px"> -->
+</div>
 
-<!--
-**NeerajSharma45/NeerajSharma45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    - 👋 Hi, I’m @Harsh-Sharma123 <br>
+    - 👀 I’m interested in the world of Computers and Technologies <br>
+    - 🌱 I’m open to learn new Technologies <br>
+    - 💞 I’m looking to collaborate on web and app dev <br>
+    - 📫 How to reach me via mail | Instagram <br>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
