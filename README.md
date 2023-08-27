@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    - 👋 Hi, I’m @Harsh-Sharma123 <br>
+    - 👋 Hi, I’m @Neeraj Sharma <br>
     - 👀 I’m interested in the world of Computers and Technologies <br>
     - 🌱 I’m open to learn new Technologies <br>
     - 💞 I’m looking to collaborate on web and app dev <br>
@@ -14,4 +14,3 @@
 <br>
 
 <br><br>
-
